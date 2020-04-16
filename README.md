@@ -1,5 +1,5 @@
 # restapi-to-kafka
-Post to Kafka topic from an api built on Flask
+Post data to Kafka topic from an simple api built on Flask, and read it using a Consumer built on scala.
 
 ## Install flask
 ```
