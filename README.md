@@ -30,3 +30,6 @@ Body :
     "phrase" : "{{$randomCatchPhrase}}"
 }
 ```
+
+## Use kafka-consumer sbt project to consume data from the kafka topic
+Compile the project using sbt and run `Consumer.scala`
