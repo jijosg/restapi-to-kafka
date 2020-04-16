@@ -8,7 +8,7 @@ pip install flask
 
 ## Set environment variables
 ```
-set FLASK_APP=flaskr 
+set FLASK_APP=restapi-to-kafka 
 set FLASK_ENV=development
 ```
 ## Run flask
